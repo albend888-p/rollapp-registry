@@ -1,4 +1,4 @@
-# RollApp Registry
+# !deprecated RollApp Registry
 
 ![RR](https://github.com/dymensionxyz/rollapp-registry/assets/109034310/081caab5-01c4-4183-93dc-ae2604a1129f)
 
